@@ -1,0 +1,28 @@
+name: 💬 Feedback
+description: Let us know your opinion about Marc Bernard Tools
+labels: ["feedback"]
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Anything goes! The good, the bad, and the ugly. Just keep it decent since your post will be public.
+  
+  - type: textarea
+    id: version
+    attributes:
+      label: Version
+      description: Name and version of the tool
+      placeholder: |
+        Name: MBT '...'
+        Version: 1.x.y
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Your Feedback
+    validations:
+      required: true
