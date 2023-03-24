@@ -2,7 +2,7 @@
 
 Summary of the change and which issue is fixed
 
-Fixes # (issue)
+Fixes #  <!-- Issue # here -->
 
 ## Type of change
 
@@ -18,9 +18,6 @@ Thanks for creating this pull request 🤗
 
 Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it small. You can open multiple PRs instead of opening a huge one.
 -->
-
-<!-- If this pull request closes an issue, please mention the issue number below -->
-Closes # <!-- Issue # here -->
 
 ## 📑 Description
 <!-- Add a brief description of the pr -->
