@@ -1,7 +1,7 @@
 name: 💬 Question
 description: Do you have a question about Marc Bernard Tools?
+title: "Q: "
 labels: ["question"]
-title: ""
 body:
   - type: markdown
     attributes:
