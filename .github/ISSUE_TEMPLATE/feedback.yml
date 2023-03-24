@@ -12,9 +12,8 @@ body:
     id: version
     attributes:
       label: Version
-      description: Name and version of the tool
+      description: Version of the tool
       placeholder: |
-        Name: MBT '...'
         Version: 1.x.y
     validations:
       required: true
