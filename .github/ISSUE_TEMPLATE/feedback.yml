@@ -1,7 +1,7 @@
 name: 💬 Feedback
 description: Let us know your opinion about Marc Bernard Tools
+title: "Feedback: "
 labels: ["feedback"]
-title: ""
 body:
   - type: markdown
     attributes:
