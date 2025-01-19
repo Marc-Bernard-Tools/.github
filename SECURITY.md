@@ -15,3 +15,5 @@ To report a security issue, please use the GitHub Security Advisory ["Report a V
 We will send a response indicating the next steps in handling your report. After the initial reply to your report, we will keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
 
 Report security bugs in third-party modules to the person or team maintaining the module. 
+
+In all cases, **you should not share** the details with anyone else until after the fix for the bug has been officially released to the public.
